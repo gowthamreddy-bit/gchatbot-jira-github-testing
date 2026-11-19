@@ -1,0 +1,1 @@
+"""ShopLite e-commerce sample."""
